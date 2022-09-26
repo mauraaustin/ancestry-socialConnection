@@ -8,7 +8,7 @@ editor_options:
 date: 'DATE-HERE'
 params:
   qualtricsLink: "https://INSERT_QUALTRICS_LINK_HERE"
-  datafile: '/Users/Maura/Desktop/socialnetworktest3.csv' #INPUT YOUR FILE NAME HERE
+  datafile: '/socialnetworktest3.csv' #INPUT YOUR FILE NAME HERE
   PID: 10 ## INPUT PARTICIPANT ID HERE
 ---
 
