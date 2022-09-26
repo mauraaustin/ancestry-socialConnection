@@ -1,3 +1,4 @@
+## This RMarkdown file will produce a document that details the social network analysis. For use with participants in social network condition. ##
 ---
 title: "Your Social Network Report"
 output:
